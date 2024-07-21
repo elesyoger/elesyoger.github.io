@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://elesyoger.github.io/sitemap
+Sitemap: https://elesyoger.github.io/app/sitemap
+Sitemap: https://elesyoger.github.io/assets/sitemap
+Sitemap: https://elesyoger.github.io/css/sitemap
+Sitemap: https://elesyoger.github.io/includes/sitemap
+Sitemap: https://elesyoger.github.io/item/sitemap
+Sitemap: https://elesyoger.github.io/src/sitemap
